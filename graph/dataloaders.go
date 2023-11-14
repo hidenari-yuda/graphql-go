@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 	"github.com/graph-gophers/dataloader/v7"
-	"github.com/kamikazezirou/gql-example/graph/model"
+	"github.com/hidenari-yuda/graphql-go/graph/model"
 	"net/http"
 )
 

@@ -1,6 +1,6 @@
 package graph
 
-import "github.com/kamikazezirou/gql-example/graph/model"
+import "github.com/hidenari-yuda/graphql-go/graph/model"
 
 // This file will not be regenerated automatically.
 //

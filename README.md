@@ -1,4 +1,4 @@
-### GraphQL And Go Example
+# GraphQL And Go Example
 
 ### Original Source
 https://github.com/KamikazeZirou/gql-example
